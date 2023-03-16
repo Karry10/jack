@@ -1,0 +1,10 @@
+1. Create user with name as <your name> , set password and login with this user and create 2 directories and 3 files
+2. Create files with 600 permissions and directories with 700 permissions with root user and normal user
+3. Create a directory with 4 text files and copy this directory  to another folder/location and remove original directory
+4. Create a group and add user to group and add this user to sudoers for all permissions
+5. Install any package and access the service
+6. Change owner and group of file/folder
+7. Create hard link and softlink files
+8. find the files having xMB storage and modified in last 3 days
+9. Print first 5 lines from any one log file 
+
